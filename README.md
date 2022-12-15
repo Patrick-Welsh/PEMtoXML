@@ -1,5 +1,5 @@
 # PEMtoXML
-### Console application to convert a RSA public/private key PEM block to XML
+### Console application to convert an RSA public/private key PEM block to XML
 
 #### Before running this script, please ensure you have a valid RSA key in PKCS1 format.
 
